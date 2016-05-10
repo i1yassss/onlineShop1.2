@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/HelloGwt.gwt.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/CreateCategoryForm.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/ProductGwt.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/service/GoodService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/service/GoodServiceAsync.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/ShopController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/ShopUsersController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/Basket.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/BasketItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/Category.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/Good.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/Order.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/GoodService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/MySQLGoodService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/MySQLUserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/META-INF" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/error404.jsp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/persistence-config.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/img/bg.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/root-config.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/security-config.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/shopStyle.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/fonts" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/2033.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/2033ksvetu.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/VIM12.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/VIM12.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/awto.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/bg.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/poezia.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/russia.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/vim.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/img/zori.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/js" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>

@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bec95c99-b078-4cbe-b494-8a7ba1af01af" name="Default" comment="" />
+    <ignored path="onlineShop.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - store@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="store" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="users" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - store@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="store" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - store@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="store" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="categories" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="onlineShop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AdminController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductGwt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/ProductGwt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateCategoryForm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/CreateCategoryForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="security-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/security-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.0">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySQLGoodService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/MySQLGoodService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="104" column="32" selection-start-line="104" selection-start-column="32" selection-end-line="104" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1463142543952" expanded="true" signature="618:706" placeholder="SELECT id, n..goods..." />
+                <marker date="1463142543952" expanded="true" signature="1964:1995" placeholder="SELECT id, n..categories..." />
+                <marker date="1463142543952" expanded="true" signature="3078:3122" placeholder="SELECT id, n..categories..." />
+                <marker date="1463142543952" expanded="true" signature="4144:4222" placeholder="SELECT id, n..goods..." />
+                <marker date="1463142543952" expanded="true" signature="5662:5749" placeholder="INSERT INTO ..." />
+                <marker date="1463142543952" expanded="true" signature="6518:6600" placeholder="UPDATE goods..." />
+                <marker date="1463142543952" expanded="true" signature="7478:7511" placeholder="SELECT * FRO..orders..." />
+                <marker date="1463142543952" expanded="true" signature="8805:8825" placeholder="SELECT * FRO..orders..." />
+                <marker date="1463142543952" expanded="true" signature="10106:10143" placeholder="SELECT * FRO..orders..." />
+                <marker date="1463142543952" expanded="true" signature="11396:11424" placeholder="DELETE FROM ..." />
+                <marker date="1463142543952" expanded="true" signature="12033:12052" placeholder="SELECT * FRO..goods..." />
+                <marker date="1463142543952" expanded="true" signature="13342:13424" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.615385">
+              <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="store.categories" pinned="false" current-in-tab="true">
+        <entry file="dbDummy://dbtable:/1a86a96d/232886a4-426f-4f73-bb45-164c181190ee/store..categories">
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-category.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/add-category.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5384614">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/Category.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addGood.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addGood.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1923075">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/header.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/mavenShop3/controllers/ShopController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addOrder.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addUser.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/historyOrder.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editGood.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editUser.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addGood.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/error404.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/mavenShop3/controllers/RegistrationController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mavenShop3/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mavenShop3/client/service/GoodServiceAsync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/HelloGWT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/service/CreateCategoryForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/service/GoodService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/service/GoodServiceAsync.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categories.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/database.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/aop-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/service/ProductGwt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/HelloGwt.gwt.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/ProductGwt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/CreateCategoryForm.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/add-category.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/CategoryRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/persistence-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/MySQLUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/root-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/goodlist.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/shopStyle.css" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/security/AuthProviderImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/security/AuthProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/MySQLUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/RegistrationController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/ShopUsersController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/ShopController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/security-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/MySQLGoodService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/add-category.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/header.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="JspContextManager">
+    <jsp-to-context jsp-file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/header.jsp" context-file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/historyOrder.jsp" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Shop Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Shop Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Shop Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onlineShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DB Consoles" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="232886a4-426f-4f73-bb45-164c181190ee" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyPsiNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.52528733" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../учебники/2ой курс/SPRING семестровая/onlineShop" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="jpave&#9;PSI&#9;JAVA://org.springframework.orm.jpa.JpaVendorAdapter&#10;adminController&#9;null&#9;null" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\webapp\WEB-INF\jsp" />
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\java\ru\kpfu\itis" />
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\java\ru\kpfu\itis\client\service" />
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\java\mavenShop3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\webapp\resources" />
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\webapp\resources\img" />
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\webapp\WEB-INF\resources\css" />
+      <recent name="C:\Users\1\Desktop\onlineShop\src\main\webapp\resources\css" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.kpfu.itis.security" />
+      <recent name="ru.kpfu.itis.client.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Shopshopshopshop">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_onlineShop" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60920" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <module name="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/main/resources/org.springframework.web.servlet.mvc.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Unknown" factoryName="Unknown">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Shopshopshopshop" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.26" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="onlineShop:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_onlineShop_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56551" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="onlineShop:war" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Shopshopshopshop" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bec95c99-b078-4cbe-b494-8a7ba1af01af" name="Default" comment="" />
+      <created>1460385320858</created>
+      <option name="number" value="Default" />
+      <updated>1460385320858</updated>
+      <workItem from="1460385323194" duration="4358000" />
+      <workItem from="1460390321786" duration="4748000" />
+      <workItem from="1460472912056" duration="9973000" />
+      <workItem from="1460797397210" duration="4303000" />
+      <workItem from="1460829524437" duration="3684000" />
+      <workItem from="1460840192663" duration="10044000" />
+      <workItem from="1460884060628" duration="6208000" />
+      <workItem from="1460893926219" duration="4316000" />
+      <workItem from="1460991586006" duration="11629000" />
+      <workItem from="1461065222780" duration="1145000" />
+      <workItem from="1461087613583" duration="5382000" />
+      <workItem from="1461232508910" duration="663000" />
+      <workItem from="1461248383673" duration="5569000" />
+      <workItem from="1461315799968" duration="5709000" />
+      <workItem from="1461329038234" duration="2354000" />
+      <workItem from="1461940438843" duration="9836000" />
+      <workItem from="1462007575364" duration="4013000" />
+      <workItem from="1462083875688" duration="13675000" />
+      <workItem from="1462176392435" duration="8270000" />
+      <workItem from="1462263792549" duration="306000" />
+      <workItem from="1462284140371" duration="2589000" />
+      <workItem from="1462341677067" duration="823000" />
+      <workItem from="1462356092286" duration="4583000" />
+      <workItem from="1462483294376" duration="2578000" />
+      <workItem from="1462525704292" duration="7843000" />
+      <workItem from="1462652106177" duration="412000" />
+      <workItem from="1462656313272" duration="1025000" />
+      <workItem from="1462696989917" duration="11537000" />
+      <workItem from="1462710666534" duration="6435000" />
+      <workItem from="1462797540517" duration="16204000" />
+      <workItem from="1462882162831" duration="12781000" />
+      <workItem from="1462945606675" duration="4829000" />
+      <workItem from="1463134446819" duration="6150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="193974000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33467743" sideWeight="0.25128534" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21915168" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3360215" sideWeight="0.7487146" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23843187" sideWeight="0.8582231" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23843187" sideWeight="0.0926276" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17287917" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23843187" sideWeight="0.10080645" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4623656" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/OrderController.java</url>
+          <line>2</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/security/AuthProvider.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="password == user.getPassword()" language="JAVA" custom="" />
+        <watch expression="password" language="JAVA" custom="" />
+        <watch expression="user.getPassword()" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://MAVEN/ru.itis.java:Shop:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>ru.itis.java:Shop:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">ru.itis.java:Shop:1.0-SNAPSHOT</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.33</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:3.2.3.RELEASE/org.aspectj:aspectjweaver:jar:1.7.2</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-expression:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-instrument:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-instrument-tomcat:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jms:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jms:jar:3.2.3.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-oxm:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE/commons-beanutils:commons-beanutils:jar:1.7.0</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE/struts:struts:jar:1.2.9</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE/struts:struts:jar:1.2.9/commons-digester:commons-digester:jar:1.6</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE/struts:struts:jar:1.2.9/commons-fileupload:commons-fileupload:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE/struts:struts:jar:1.2.9/commons-validator:commons-validator:jar:1.1.4</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE/struts:struts:jar:1.2.9/oro:oro:jar:2.0.7</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE/struts:struts:jar:1.2.9/antlr:antlr:jar:2.7.2</node>
+            <node x="" y="">org.springframework:spring-struts:jar:3.2.3.RELEASE/struts:struts:jar:1.2.9/xalan:xalan:jar:2.5.1</node>
+            <node x="" y="">org.springframework:spring-test:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-web:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc-portlet:jar:3.2.3.RELEASE</node>
+            <node x="" y="">javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:jar:1.2.1</node>
+            <node x="" y="">org.glassfish.web:javax.servlet.jsp.jstl:jar:1.2.2</node>
+            <node x="" y="">org.glassfish.web:javax.servlet.jsp.jstl:jar:1.2.2/javax.servlet.jsp.jstl:jstl-api:jar:1.2</node>
+            <node x="" y="">org.glassfish.web:javax.servlet.jsp.jstl:jar:1.2.2/javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet:servlet-api:jar:2.5</node>
+            <node x="" y="">org.glassfish.web:javax.servlet.jsp.jstl:jar:1.2.2/javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet.jsp:jsp-api:jar:2.1</node>
+            <node x="" y="">javax:javaee-web-api:jar:7.0</node>
+            <node x="" y="">org.springframework:spring-core:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-core:jar:3.2.3.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">org.springframework:spring-beans:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-tx:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aop:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-config:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-core:jar:3.2.3.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-taglibs:jar:3.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-taglibs:jar:3.1.0.RELEASE/org.springframework.security:spring-security-acl:jar:3.1.0.RELEASE</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.apache.maven:maven-model-builder:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.apache.maven:maven-settings:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.codehaus.plexus:plexus-interpolation:jar:1.14</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.sonatype.sisu:sisu-inject-plexus:jar:2.3.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.sonatype.sisu:sisu-inject-plexus:jar:2.3.0/org.sonatype.sisu:sisu-inject-bean:jar:2.3.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.sonatype.sisu:sisu-inject-plexus:jar:2.3.0/org.sonatype.sisu:sisu-inject-bean:jar:2.3.0/org.sonatype.sisu:sisu-guice:jar:no_aop:3.1.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.sonatype.sisu:sisu-inject-plexus:jar:2.3.0/org.sonatype.sisu:sisu-inject-bean:jar:2.3.0/org.sonatype.sisu:sisu-guice:jar:no_aop:3.1.0/org.sonatype.sisu:sisu-guava:jar:0.9.9</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.codehaus.plexus:plexus-component-annotations:jar:1.5.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-compat:jar:3.0.5/org.apache.maven.wagon:wagon-provider-api:jar:2.4</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.apache.maven:maven-settings-builder:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.apache.maven:maven-repository-metadata:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.apache.maven:maven-aether-provider:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.apache.maven:maven-aether-provider:jar:3.0.5/org.sonatype.aether:aether-spi:jar:1.13.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.sonatype.aether:aether-impl:jar:1.13.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.sonatype.aether:aether-api:jar:1.13.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.sonatype.aether:aether-util:jar:1.13.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-core:jar:3.0.5/org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3/org.sonatype.plexus:plexus-cipher:jar:1.4</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-model:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-artifact:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-plugin-api:jar:3.0.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.reporting:maven-reporting-api:jar:3.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.reporting:maven-reporting-impl:jar:2.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.reporting:maven-reporting-impl:jar:2.1/org.apache.maven:maven-project:jar:2.0.10</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.reporting:maven-reporting-impl:jar:2.1/org.apache.maven:maven-project:jar:2.0.10/org.apache.maven:maven-profile:jar:2.0.10</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.reporting:maven-reporting-impl:jar:2.1/org.apache.maven:maven-project:jar:2.0.10/org.apache.maven:maven-artifact-manager:jar:2.0.10</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.reporting:maven-reporting-impl:jar:2.1/org.apache.maven:maven-project:jar:2.0.10/org.apache.maven:maven-plugin-registry:jar:2.0.10</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.reporting:maven-reporting-impl:jar:2.1/org.apache.maven.doxia:doxia-core:jar:1.1.2</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.reporting:maven-reporting-impl:jar:2.1/org.apache.maven.doxia:doxia-core:jar:1.1.2/commons-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-container-default:jar:1.5.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-container-default:jar:1.5.5/org.apache.xbean:xbean-reflect:jar:3.4</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-container-default:jar:1.5.5/org.apache.xbean:xbean-reflect:jar:3.4/commons-logging:commons-logging-api:jar:1.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-container-default:jar:1.5.5/com.google.collections:google-collections:jar:1.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-sink-api:jar:1.6</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-sink-api:jar:1.6/org.apache.maven.doxia:doxia-logging-api:jar:1.6</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.maven.doxia:doxia-decoration-model:jar:1.6</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.maven.doxia:doxia-module-xhtml:jar:1.6</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.maven.doxia:doxia-module-fml:jar:1.6</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.codehaus.plexus:plexus-i18n:jar:1.0-beta-7</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.codehaus.plexus:plexus-velocity:jar:1.1.7</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.velocity:velocity:jar:1.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.velocity:velocity-tools:jar:2.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.velocity:velocity-tools:jar:2.0/commons-chain:commons-chain:jar:1.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.velocity:velocity-tools:jar:2.0/sslext:sslext:jar:1.2-0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.velocity:velocity-tools:jar:2.0/org.apache.struts:struts-core:jar:1.3.8</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.velocity:velocity-tools:jar:2.0/org.apache.struts:struts-taglib:jar:1.3.8</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.doxia:doxia-site-renderer:jar:1.6/org.apache.velocity:velocity-tools:jar:2.0/org.apache.struts:struts-tiles:jar:1.3.8</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-utils:jar:3.0.18</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.thoughtworks.qdox:qdox:jar:1.12.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.freemarker:freemarker:jar:2.3.20</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.google.gwt:gwt-dev:jar:2.7.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.google.gwt:gwt-dev:jar:2.7.0/org.ow2.asm:asm:jar:5.0.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.google.gwt:gwt-dev:jar:2.7.0/org.ow2.asm:asm-util:jar:5.0.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.google.gwt:gwt-dev:jar:2.7.0/org.ow2.asm:asm-util:jar:5.0.3/org.ow2.asm:asm-tree:jar:5.0.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.google.gwt:gwt-dev:jar:2.7.0/org.ow2.asm:asm-commons:jar:5.0.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.google.gwt:gwt-user:jar:2.7.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.google.gwt:gwt-user:jar:2.7.0/javax.validation:validation-api:jar:1.0.0.GA</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.google.gwt:gwt-user:jar:2.7.0/javax.validation:validation-api:jar:sources:1.0.0.GA</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-archiver:jar:2.6.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-archiver:jar:2.6.3/org.codehaus.plexus:plexus-io:jar:2.1.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-archiver:jar:2.6.3/org.apache.commons:commons-compress:jar:1.8.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven:maven-archiver:jar:2.5</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/junit:junit:jar:4.11</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.surefire:surefire-booter:jar:2.4.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.apache.maven.surefire:surefire-api:jar:2.4.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/commons-io:commons-io:jar:2.4</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.jdom:jdom:jar:1.1.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/jaxen:jaxen:jar:1.1.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/jaxen:jaxen:jar:1.1.1/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/jaxen:jaxen:jar:1.1.1/jdom:jdom:jar:1.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/jaxen:jaxen:jar:1.1.1/xml-apis:xml-apis:jar:1.3.02</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/jaxen:jaxen:jar:1.1.1/xom:xom:jar:1.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/jaxen:jaxen:jar:1.1.1/xom:xom:jar:1.0/xerces:xmlParserAPIs:jar:2.6.2</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/com.ibm.icu:icu4j:jar:3.4.4</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/xerces:xercesImpl:jar:2.10.0</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-classworlds:jar:2.5.2</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-compiler-api:jar:2.3</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.sonatype.plexus:plexus-build-api:jar:0.0.7</node>
+            <node x="" y="">org.codehaus.mojo:gwt-maven-plugin:jar:2.7.0/org.codehaus.plexus:plexus-compiler-javac:jar:2.3</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.7.2.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.7.2.RELEASE/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.7.2.RELEASE/org.aspectj:aspectjrt:jar:1.8.4</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.7.2.RELEASE/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.7.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/com.google.guava:guava:jar:r08</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/commons-cli:commons-cli:jar:1.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/commons-codec:commons-codec:jar:1.2</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:jar:1.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.antlr:antlr:jar:3.2</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.antlr:antlr:jar:3.2/org.antlr:antlr-runtime:jar:3.2</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.antlr:antlr:jar:3.2/org.antlr:antlr-runtime:jar:3.2/org.antlr:stringtemplate:jar:3.2</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.apache.cassandra.deps:avro:jar:1.4.0-cassandra-1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.apache.cassandra.deps:avro:jar:1.4.0-cassandra-1/org.mortbay.jetty:jetty:jar:6.1.22</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.apache.cassandra.deps:avro:jar:1.4.0-cassandra-1/org.mortbay.jetty:jetty:jar:6.1.22/org.mortbay.jetty:jetty-util:jar:6.1.22</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.apache.cassandra.deps:avro:jar:1.4.0-cassandra-1/org.mortbay.jetty:jetty:jar:6.1.22/org.mortbay.jetty:servlet-api:jar:2.5-20081211</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.codehaus.jackson:jackson-core-asl:jar:1.4.0</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.codehaus.jackson:jackson-mapper-asl:jar:1.4.0</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/jline:jline:jar:0.9.94</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/com.googlecode.json-simple:json-simple:jar:1.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/com.github.stephenc.high-scale-lib:high-scale-lib:jar:1.1.2</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.yaml:snakeyaml:jar:1.6</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.apache.thrift:libthrift:jar:0.6.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.apache.thrift:libthrift:jar:0.6.1/org.apache.httpcomponents:httpclient:jar:4.0.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.apache.thrift:libthrift:jar:0.6.1/org.apache.httpcomponents:httpclient:jar:4.0.1/org.apache.httpcomponents:httpcore:jar:4.0.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/org.apache.cassandra:cassandra-thrift:jar:0.8.1</node>
+            <node x="" y="">org.apache.cassandra:cassandra-all:jar:0.8.1/com.github.stephenc:jamm:jar:0.2.2</node>
+            <node x="" y="">org.slf4j:slf4j-simple:jar:1.7.10</node>
+            <node x="" y="">log4j:log4j:jar:1.2.17</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.08637316561844864" x="458.0" y="3115.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.6.RELEASE/spring-web-3.2.6.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18345323">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.3.RELEASE/spring-webmvc-3.2.3.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18411553">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.3.RELEASE/spring-jdbc-3.2.3.RELEASE.jar!/org/springframework/jdbc/datasource/SimpleDriverDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7777777">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.4.RELEASE/spring-beans-4.2.4.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-4.2.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33221477">
+          <caret line="539" column="4" selection-start-line="539" selection-start-column="4" selection-end-line="539" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/service/GoodServiceAsync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/gwt-2.7.0/gwt-user.jar!/com/google/gwt/user/client/ui/UIObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="770" column="14" selection-start-line="770" selection-start-column="14" selection-end-line="770" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.3.RELEASE/spring-orm-3.2.3.RELEASE.jar!/org/springframework/orm/jpa/JpaVendorAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2592592">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35232067">
+          <caret line="654" column="0" selection-start-line="654" selection-start-column="0" selection-end-line="654" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/Good.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/HelloGwt.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="77" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20689656">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7777777">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onlineShop.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categories.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3461537">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/root-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/CategoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/GoodService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/persistence-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3586498">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/img/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/shopStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.033932135">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/goodlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1a86a96d/232886a4-426f-4f73-bb45-164c181190ee/store..users">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/MySQLUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1463137324347" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1463137324347" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1463137324347" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1463137324347" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1463137324347" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1463137324347" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1463137324347" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1463137324347" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/RegistrationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/ShopUsersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/ShopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.269231">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/authentication/ProviderManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5925927">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/security-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/security/AuthProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1660#1678#0" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1975#1976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/historyOrder.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addGood.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controllers/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/ProductGwt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/client/CreateCategoryForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/model/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/MySQLGoodService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="32" selection-start-line="104" selection-start-column="32" selection-end-line="104" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1463142543952" expanded="true" signature="618:706" placeholder="SELECT id, n..goods..." />
+            <marker date="1463142543952" expanded="true" signature="1964:1995" placeholder="SELECT id, n..categories..." />
+            <marker date="1463142543952" expanded="true" signature="3078:3122" placeholder="SELECT id, n..categories..." />
+            <marker date="1463142543952" expanded="true" signature="4144:4222" placeholder="SELECT id, n..goods..." />
+            <marker date="1463142543952" expanded="true" signature="5662:5749" placeholder="INSERT INTO ..." />
+            <marker date="1463142543952" expanded="true" signature="6518:6600" placeholder="UPDATE goods..." />
+            <marker date="1463142543952" expanded="true" signature="7478:7511" placeholder="SELECT * FRO..orders..." />
+            <marker date="1463142543952" expanded="true" signature="8805:8825" placeholder="SELECT * FRO..orders..." />
+            <marker date="1463142543952" expanded="true" signature="10106:10143" placeholder="SELECT * FRO..orders..." />
+            <marker date="1463142543952" expanded="true" signature="11396:11424" placeholder="DELETE FROM ..." />
+            <marker date="1463142543952" expanded="true" signature="12033:12052" placeholder="SELECT * FRO..goods..." />
+            <marker date="1463142543952" expanded="true" signature="13342:13424" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/add-category.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5384614">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.615385">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1a86a96d/232886a4-426f-4f73-bb45-164c181190ee/store..categories">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>onlineShop:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.52528733" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>onlineShop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.52528733" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spring-web-2.5.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.52528733" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
