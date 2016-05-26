@@ -1,10 +1,15 @@
 package ru.kpfu.itis.model;
 
+import javax.persistence.*;
 import java.sql.Date;
 import java.util.Objects;
 
-
+@Entity
+@Table(name = "orders")
 public class Order {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
     private Integer idUser;
     private Date date;

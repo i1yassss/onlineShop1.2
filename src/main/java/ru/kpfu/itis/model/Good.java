@@ -1,9 +1,15 @@
 package ru.kpfu.itis.model;
 
+import javax.persistence.*;
 import java.util.Objects;
 
 
+@Entity
+@Table(name = "goods")
 public class Good {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
     private String name;
     private String description;

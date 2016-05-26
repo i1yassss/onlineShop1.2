@@ -3,12 +3,15 @@ package ru.kpfu.itis.model;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
+import javax.persistence.*;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 import java.util.Objects;
 
+@Entity
+@Table(name = "users")
 public class User implements Serializable, UserDetails {
     static GrantedAuthority auth = new GrantedAuthority() {
         @Override
@@ -17,6 +20,8 @@ public class User implements Serializable, UserDetails {
         }
     };
 
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
     private String name;
     private String email;
