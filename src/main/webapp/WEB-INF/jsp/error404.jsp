@@ -10,7 +10,7 @@
 <div class="wrap">
 	<h1>Book Store</h1>
 	<div class="banner">
-		<img src="/resources/fonts/banner.png" alt="" />
+		<img src="/fonts/banner.png" alt="" />
 	</div>
 	<div class="page">
 		<h2>OOPS! Dude, something is wrong! :(</h2>
